@@ -11,7 +11,7 @@ namespace Program{
             _client = new DiscordSocketClient();
             _client.MessageReceived += CommandHandler;
             _client.Log += Log;
-            var token = "MTAwMjcyMzUxMjE0ODAzMzU5OQ.GFSfpu.MsOA1fHWUVcxT2FwPqdif_SoCHPXBYbhLm4C1I";
+            var token = "";
             await _client.LoginAsync(TokenType.Bot,token);
             await _client.StartAsync();
             // Block this task until the program is closed.
@@ -44,7 +44,7 @@ namespace Program{
                 lengthofcommand = message.Content.Length;
             }
             command = message.Content.Substring(1,lengthofcommand-1);
-            
+
             //commands
             if (command.Equals("hi"))
             {
