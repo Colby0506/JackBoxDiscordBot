@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\app.csproj": {}
+    "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\app.csproj": {
+    "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\app.csproj",
+        "projectPath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\app.csproj",
         "packagesPath": "C:\\Users\\Colby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\obj\\",
+        "outputPath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

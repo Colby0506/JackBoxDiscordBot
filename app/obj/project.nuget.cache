@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUQi9/9IZmOr5tz1Br073lOyW2LbbjPKDV3ji85hDpmavkMfV1T6LoKyGUjc0KNN0nE7vY0Sw1kk8/2AyAEG7w==",
+  "dgSpecHash": "kuX9m83o4JBZSOU0JNw+HvroMvjhzJvVuKPB2HXuTDqWmp/MKF2m0nnrR8Sya9n7yL3oi0a3NOihD4wzgwgdlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\app\\app.csproj",
+  "projectFilePath": "C:\\Users\\Colby\\Desktop\\Jackbox Discord Bot\\jackboxDiscordBot\\app\\app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colby\\.nuget\\packages\\discord.net\\3.7.2\\discord.net.3.7.2.nupkg.sha512",
     "C:\\Users\\Colby\\.nuget\\packages\\discord.net.commands\\3.7.2\\discord.net.commands.3.7.2.nupkg.sha512",
