@@ -50,9 +50,18 @@ namespace Program{
             {
                 message.Channel.SendMessageAsync($@"Hello {message.Author.Mention}" );
             }
-
+            else if (command.Equals("gamecreate")){
+                string vchannel = command.Substring(9, command.Length-1);
+                RoomCreator(vchannel);
+            }
 
             return Task.CompletedTask;
         }
+        public Task RoomCreator(string vcTitle)
+        {
+            
+            return Task.CompletedTask;
+        }
+        
     }
 }

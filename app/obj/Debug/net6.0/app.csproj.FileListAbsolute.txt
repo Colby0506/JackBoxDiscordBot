@@ -52,3 +52,30 @@ C:\Users\Colby\Desktop\Jackbox Discord Bot\jackboxDiscordBot\app\obj\Debug\net6.
 C:\Users\Colby\Desktop\Jackbox Discord Bot\jackboxDiscordBot\app\obj\Debug\net6.0\app.pdb
 C:\Users\Colby\Desktop\Jackbox Discord Bot\jackboxDiscordBot\app\obj\Debug\net6.0\app.genruntimeconfig.cache
 C:\Users\Colby\Desktop\Jackbox Discord Bot\jackboxDiscordBot\app\obj\Debug\net6.0\ref\app.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\app.exe
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\app.deps.json
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\app.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\app.pdb
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.csproj.CopyComplete
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\refint\app.dll
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.pdb
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\Colby\Documents\GitHub\JackBoxDiscordBot\app\obj\Debug\net6.0\ref\app.dll
